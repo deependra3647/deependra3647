@@ -1,6 +1,7 @@
-# 💫 About Me:
-# 🚀 My Project Title<br><br>Hi, I'm Deependra 👋  <br>I built this project to solve a real-world problem and improve my development skills.<br><br>---<br><br>## 📖 About This Project<br><br>In this project, I focused on creating a solution that is simple, efficient, and user-friendly.  <br>I designed and developed this application using modern technologies and best practices.<br><br>This project helped me strengthen my understanding of:<br>- Full-stack development<br>- API integration<br>- Problem-solving<br>- Real-world project deployment<br><br>---<br><br>## 🛠️ Tech Stack<br><br>I used the following technologies while building this project:<br><br>- Frontend: HTML, CSS, JavaScript<br>- Backend: Node.js / Python / PHP (choose yours)<br>- Database: MongoDB / MySQL<br>- Other Tools: Git, GitHub, VS Code<br><br>---<br><br>## ⚙️ Features<br><br>Here are some key features of my project:<br><br>- ✅ User-friendly interface  <br>- ✅ Real-time functionality  <br>- ✅ Responsive design  <br>- ✅ Efficient data handling  <br>- ✅ Secure backend integration  <br><br>---<br><br>## 🚀 How I Built This<br><br>I started by planning the project structure and defining the core features.  <br>Then, I implemented the frontend UI and connected it with the backend APIs.  <br>Finally, I tested the application and deployed it for public use.<br><br>---<br><br>## 📦 Installation & Setup<br><br>To run this project locally, follow these steps:<br><br>```bash<br>git clone https://github.com/your-username/your-repo.git<br>cd your-repo<br>npm install<br>npm start
-
+<div align="center">
+  <img src="https://github.com/deependra3647/deependra3647/blob/output/github-snake.svg#gh-light-mode-only" />
+  <img src="https://github.com/deependra3647/deependra3647/blob/output/github-snake-dark.svg#gh-dark-mode-only" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.deep._kansana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deependra07/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deependrakansana2004@gmail.com) 
@@ -16,3 +17,5 @@
 [![](https://visitcount.itsvg.in/api?id=deependra3647&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/deependra3647/deependra3647/blob/output/github-snake-dark.svg)
