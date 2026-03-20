@@ -18,4 +18,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/deependra3647/deependra3647/blob/output/github-snake-dark.svg)
